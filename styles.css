@@ -181,8 +181,8 @@ textarea:focus {
   border-left: 1px solid #f2f2f2;
 }
 .IndexPage__hotVacanciesItem-EoE31 {
-  margin: 0;
-  padding: 0;
+  margin: 0px !important;
+  padding: 5px !important;
 }
 .IndexPage__hotVacanciesItem-EoE31:first-of-type {
   margin-top: 16px;
@@ -995,7 +995,7 @@ textarea:focus {
   flex-direction: row;
   align-items: stretch;
   justify-content: center;
-  padding: 23px 13px 20px 0;
+  padding: 10px 13px 10px 0;
   background: #fff;
   min-height: 90px;
   width: 100%;
